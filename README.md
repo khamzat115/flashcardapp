@@ -7,7 +7,7 @@ This flashcard app displays a trivia question and shows the answer with a single
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/qAusOPIfbp.gif" width=200><br>
+<img src="http://g.recordit.co/wiQNeDnD82.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
