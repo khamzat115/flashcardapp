@@ -23,4 +23,13 @@
         android:text="Asia!"
         android:textSize="40sp" />
 
+    <ImageView
+        android:id="@+id/addBtn"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/plusymbol" />
+
+
 </RelativeLayout>
