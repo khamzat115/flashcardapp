@@ -31,5 +31,26 @@
         android:layout_height="100dp"
         android:src="@drawable/plusymbol" />
 
+    <ImageView
+        android:id="@+id/nxtBtn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="374dp"
+        android:src="@drawable/ic_next" />
+
+    <ImageView
+        android:id="@+id/delBtn"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginEnd="323dp"
+        android:layout_marginBottom="385dp"
+        android:src="@drawable/deletebin" />
 
 </RelativeLayout>
