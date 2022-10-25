@@ -2,11 +2,11 @@
 ## Lab 4
 
 ### App Description
-`TODO:The flashcard app is enhanced with cool animations.
+The flashcard app is enhanced with cool animations.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://g.recordit.co/jllQvFPzdk.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
